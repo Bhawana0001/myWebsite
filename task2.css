@@ -1,0 +1,22 @@
+.sec1{
+  background-image: url(https://steamuserimages-a.akamaihd.net/ugc/862862503076386616/61EC84F5EF2B67AF8E4BE68B60B778AD6840E7CF/);
+}
+.header{
+    padding: 200px;
+   text-align: center;
+   text-decoration:wavy;
+   color: rgb(48, 47, 47);
+   background-color: orange;
+}
+
+#intro{
+    text-align: center;
+    color:rgb(4, 56, 27);
+   
+}
+
+#text{
+    text-align: center;
+    color: aqua;
+}
+
