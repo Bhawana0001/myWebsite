@@ -1,6 +1,5 @@
 .sec1 {
 	background-image: url(https://steamuserimages-a.akamaihd.net/ugc/862862503076386616/61EC84F5EF2B67AF8E4BE68B60B778AD6840E7CF/);
-	
 }
 .header {
 	padding: 200px;
@@ -8,18 +7,18 @@
 	text-decoration: wavy;
 	color: rgb(48, 47, 47);
 	background-color: #ff4814;
-	animation:ghost 3s ease-out infinite;
+	animation: ghost 3s ease-out infinite;
 }
 
-
-@keyframes ghost{
-	50%{transform: translate(0, 20px);}
+@keyframes ghost {
+	50% {
+		transform: translate(0, 20px);
+	}
 }
 
 #intro {
-	
 	text-align: center;
-	color:rgb(0, 183, 255);
+	color: rgb(17, 17, 17);
 }
 
 #text {
@@ -27,21 +26,22 @@
 	color: aqua;
 }
 
-#Project1{
+#Project1 {
 	position: absolute;
-	left:100px;
+	left: 100px;
 	padding: 60px;
 	width: 500px;
 	height: 400px;
-	background-color:orange;
+	background-color: orange;
+	border-radius: 8px;
 }
 
-#Project2{
-	position:relative;
+#Project2 {
+	position: relative;
 	right: -950px;
-	padding: 50px;
+	padding: 60px;
 	width: 500px;
 	height: 400px;
-	background-color:orange;
+	background-color: orange;
+	border-radius: 8px;
 }
-
