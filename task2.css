@@ -2,6 +2,7 @@
 	background-image: url(https://steamuserimages-a.akamaihd.net/ugc/862862503076386616/61EC84F5EF2B67AF8E4BE68B60B778AD6840E7CF/);
 	background-size: cover;
 }
+
 .header {
 	padding: 200px;
 	text-align: center;
@@ -36,7 +37,7 @@
 }
 
 #Project1 {
-	padding: 60px;
+	padding:3%;
 	width: 500px;
 	height: 400px;
 	background-color: orange;
@@ -44,7 +45,7 @@
 }
 
 #Project2 {
-	padding: 60px;
+	padding:3%;
 	width: 500px;
 	height: 400px;
 	background-color: orange;
